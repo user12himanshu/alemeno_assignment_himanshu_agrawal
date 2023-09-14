@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "769015092321",
+    "project_id": "alemeno-assignment-7fbc5",
+    "storage_bucket": "alemeno-assignment-7fbc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769015092321:android:d289dafd45b3c142d1c620",
+        "android_client_info": {
+          "package_name": "com.example.amlemeno_assignment_test_himanshu_agrawal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769015092321-tph399cdb0pf3odrn1s9sh4p7abcuivf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn_moRN4pBUWnrzzupQ-nOqqn9OLVnla0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769015092321-tph399cdb0pf3odrn1s9sh4p7abcuivf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769015092321-3c456k6dgsi6iskfdg30l21aneucf03t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amlemenoAssignmentTestHimanshuAgrawal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
